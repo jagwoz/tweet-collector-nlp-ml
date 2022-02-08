@@ -1,0 +1,19 @@
+# API keys & tokens;
+c_key =
+c_secret =
+a_token =
+a_token_secret =
+b_token =
+
+# json database file;
+file_name = 'files/tweet_db.json'
+
+sub_ids = {}
+# subscribed accounts;
+sub_ids[' add tweeter user id '] = " add name "
+
+# new request time stamp;
+time_stamp = 1
+
+# search start delay;
+delay = 200000
